@@ -7,3 +7,5 @@
 /dataSources/
 /dataSources.local.xml
 /.idea/
+/springboot-1.5.x/springboot-1.5.x.iml
+/springboot-1.5.x/target/
